@@ -1,0 +1,5 @@
+name: RankMT
+author: SkogrinMT
+version: 1.0
+website: https://medievaltown.fr
+main: fr.skogrin.medievaltown.rank.bukkit.plugin.RankJavaPlugin

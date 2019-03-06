@@ -1,0 +1,8 @@
+name: VoteMT
+author: SkogrinMT
+website: https://medievaltown.fr
+main: fr.skogrin.medievaltown.vote.Main
+version: 1.0
+commands:
+   vote:
+      description: Permet de voter pour le serveur !

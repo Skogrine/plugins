@@ -1,0 +1,8 @@
+name: Panel-AdminMT
+author: DirectElk
+main: fr.directelk.padmin.bukkit.plugin.PadminJavaPlugin
+website: https://medievaltown.fr
+version: 1.0
+commands:
+   padmin:
+      description: Seulement utilisable par les administrateurs

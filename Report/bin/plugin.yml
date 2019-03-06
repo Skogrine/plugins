@@ -1,0 +1,16 @@
+name: ModerationMT
+author: SkogrinMT
+main: fr.skogrin.medievaltown.panelmoderation.Main
+website: https://medievaltown.fr
+version: 1.0
+commands:
+   mod:
+      description: Ouvre le menu de moderation !
+   report:
+      description: permet de report un joueur !
+   kick:
+      description: Kick le joueur.
+      usage: /<command>
+   ban:
+      description: Ban le joueur.
+      usage: /<command>

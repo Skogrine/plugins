@@ -1,0 +1,16 @@
+name: SkinChangerMT
+main: fr.skogrin.skinchanger.PlayerSkinChanger
+description: Change votre skin Minecraft !
+version: 0.3
+author: SkogrinMT
+softdepend: [ProtocolLib]
+website: https://medievaltown.fr
+commands:
+   psc:
+      description: Commande principal du plugin.
+      usage: /psc <skin> <name>
+      permission: playerskinchanger.use
+   permissions:
+      playerskinchanger.use:
+      default: op
+      description: Vous permet de changer de skin.

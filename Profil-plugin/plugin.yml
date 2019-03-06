@@ -1,0 +1,8 @@
+main: fr.directelk.profil.bukkit.plugin.Main
+name: ProfilMT
+author: DirectElk
+version: 1.0
+website: https://medievaltown.fr
+commands:
+   profil:
+      description: Permet de voir son profil
